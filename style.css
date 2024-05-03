@@ -679,3 +679,14 @@ header .search-bar-container label:hover{
   text-decoration: none; /* Remove underline */
 }
 
+
+
+.image {
+  text-align: center; /* Memastikan gambar berada di tengah secara horizontal */
+}
+
+.image img {
+  display: inline-block; /* Mengatur gambar agar tetap berada di tengah */
+}
+
+
