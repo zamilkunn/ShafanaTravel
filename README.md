@@ -1,3 +1,3 @@
 # Shafana Tour
 
-[Shafana Tour & Travel](https://twins-travel.vercel.app/)
+[Shafana Tour & Travel](https://www.shafanatravel.com/)
